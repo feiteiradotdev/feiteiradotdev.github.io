@@ -34,7 +34,7 @@ const geistMono = Geist_Mono({
 });
 
 const siteUrl =
-  process.env.NEXT_PUBLIC_SITE_URL || "https://p-feiteira.github.io";
+  process.env.NEXT_PUBLIC_SITE_URL || "https://feiteira-dev.github.io";
 
 type Props = {
   params: Promise<{ locale: string }>;

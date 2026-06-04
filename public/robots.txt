@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://p-feiteira.github.io/sitemap.xml
+Sitemap: https://feiteira-dev.github.io/sitemap.xml
 

@@ -1,4 +1,4 @@
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://p-feiteira.github.io";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://feiteira-dev.github.io";
 
 interface StructuredDataProps {
   locale: string;
