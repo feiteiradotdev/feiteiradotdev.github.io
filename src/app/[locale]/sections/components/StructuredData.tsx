@@ -17,8 +17,8 @@ export default function StructuredData({ locale }: StructuredDataProps) {
     jobTitle: jobTitles[locale] || jobTitles.en,
     url: locale === "en" ? siteUrl : `${siteUrl}/${locale}/`,
     sameAs: [
-      "https://github.com/p-feiteira",
-      "https://www.linkedin.com/in/p-feiteira/",
+      "https://github.com/feiteira-dev",
+      "https://www.linkedin.com/in/feiteira-dev/",
       "https://x.com/feiteira_dev",
     ],
     email: "pedrofeiteira.dev@gmail.com",

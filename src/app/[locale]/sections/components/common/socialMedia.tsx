@@ -3,8 +3,8 @@ import { Button } from "@/components/ui/button"
 import Image from "next/image"
 
 const socialMedia = [
-  {"icon": "linkedin", "href": "https://www.linkedin.com/in/p-feiteira/"},
-  {"icon": "github", "href": "https://github.com/p-feiteira"},
+  {"icon": "linkedin", "href": "https://www.linkedin.com/in/feiteira-dev/"},
+  {"icon": "github", "href": "https://github.com/feiteira-dev"},
   {"icon": "x", "href": "https://x.com/feiteira_dev"},
 
 ]
