@@ -19,7 +19,7 @@ import { Button } from "@/components/ui/button"
 import SocialMediaSection from "@/components/common/socialMedia"
 import LanguageSwitcher from "@/components/LanguageSwitcher"
 
-const PAGE_NAV_KEYS = ["about", "services", "skills", "showcase", "contact"] as const
+const PAGE_NAV_KEYS = ["about", "services", "skills", "showcase", "resume", "contact"] as const
 
 export default function Header() {
   const [mobileNavOpen, setMobileNavOpen] = React.useState(false)

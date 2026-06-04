@@ -5,6 +5,7 @@
     "services": "Servicos",
     "skills": "Competencias",
     "showcase": "Trabalhos",
+    "resume": "Curriculo",
     "contact": "Contacto",
     "toggleTheme": "Alternar tema",
     "openMenu": "Abrir menu de navegacao",
@@ -18,9 +19,9 @@
     "role": "Inventor. Builder.",
     "tagline": "A stack e irrelevante. A distancia entre a sua ideia e um produto entregue ficou muito menor.",
     "contactButton": "Iniciar Projeto",
-    "resumeButton": "Descarregar CV",
+    "resumeButton": "Ver Curriculo",
     "profileAlt": "Pedro Feiteira, Inventor e Builder",
-    "resumeAriaLabel": "Descarregar o curriculo de Pedro Feiteira (PDF)",
+    "resumeAriaLabel": "Ver o curriculo interativo de Pedro Feiteira",
     "contactAriaLabel": "Navegar para a seccao de contacto"
   },
   "about": {
@@ -126,6 +127,54 @@
       "portuguese": "Portugues",
       "english": "Ingles"
     }
+  },
+  "resume": {
+    "metaTitle": "Curriculo — Pedro Feiteira",
+    "metaDescription": "Curriculo interativo de Pedro Feiteira — Engenheiro Senior Full-Stack + IA. Veja online ou descarregue em PDF.",
+    "title": "Curriculo",
+    "role": "Engenheiro Senior Full-Stack + IA",
+    "summaryTitle": "Perfil",
+    "summary": "Engenheiro senior que transforma ideias em produtos entregues. Arquiteto sistemas de IA — pipelines RAG e agentes LLM — e construo aplicacoes full-stack de ponta a ponta, do frontend React/Next.js ao backend Python/FastAPI e a infraestrutura cloud por baixo. A stack e irrelevante; o que importa e o resultado.",
+    "download": "Descarregar PDF",
+    "downloadHint": "Abre a caixa de impressao do navegador — escolha \"Guardar como PDF\".",
+    "print": "Imprimir",
+    "backToHome": "Voltar ao inicio",
+    "updated": "Atualizado",
+    "updatedDate": "Junho 2026",
+    "sections": {
+      "experience": "Experiencia",
+      "techStack": "Tecnologias",
+      "education": "Educacao",
+      "languages": "Idiomas"
+    },
+    "contactLabels": {
+      "email": "Email",
+      "location": "Localizacao",
+      "website": "Website",
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    },
+    "location": "Costa de Caparica, Portugal",
+    "skillGroups": [
+      { "label": "Linguagens Principais", "items": ["Python", "TypeScript", "JavaScript", "SQL"] },
+      { "label": "IA & Dados", "items": ["LangChain", "OpenAI", "Pinecone", "RAG", "Pandas", "Snowflake"] },
+      { "label": "Web & Frameworks", "items": ["React", "Next.js", "FastAPI", "Node.js"] },
+      { "label": "Cloud & DevOps", "items": ["AWS", "Terraform", "Docker", "GitLab CI/CD", "GitHub Actions"] },
+      { "label": "Testes & Monitorizacao", "items": ["Pytest", "Playwright", "Grafana K6", "DataDog"] }
+    ],
+    "education": [
+      {
+        "degree": "Mestrado em Engenharia Informatica",
+        "school": "NOVA FCT",
+        "period": "Set 2015 – Out 2021",
+        "location": "Lisboa, Portugal",
+        "detail": "Tese: Execucao de tarefas a pedido em recursos remotos"
+      }
+    ],
+    "languagesList": [
+      { "name": "Portugues", "level": "Nativo", "value": 100 },
+      { "name": "Ingles", "level": "Profissional (C1)", "value": 85 }
+    ]
   },
   "services": {
     "title": "O Que Construo",

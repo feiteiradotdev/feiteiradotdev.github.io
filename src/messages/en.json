@@ -5,6 +5,7 @@
     "services": "Services",
     "skills": "Skills",
     "showcase": "Showcase",
+    "resume": "Résumé",
     "contact": "Contact",
     "toggleTheme": "Toggle theme",
     "openMenu": "Open navigation menu",
@@ -18,9 +19,9 @@
     "role": "Inventor. Builder.",
     "tagline": "The stack is irrelevant. The gap between your idea and a shipped product just got a lot smaller.",
     "contactButton": "Start a Project",
-    "resumeButton": "Download Resume",
+    "resumeButton": "View Résumé",
     "profileAlt": "Pedro Feiteira, Inventor and Builder",
-    "resumeAriaLabel": "Download Pedro Feiteira's resume (PDF)",
+    "resumeAriaLabel": "View Pedro Feiteira's interactive résumé",
     "contactAriaLabel": "Navigate to contact section"
   },
   "about": {
@@ -126,6 +127,54 @@
       "portuguese": "Portuguese",
       "english": "English"
     }
+  },
+  "resume": {
+    "metaTitle": "Résumé — Pedro Feiteira",
+    "metaDescription": "Interactive résumé of Pedro Feiteira — Senior Full-Stack + AI Engineer. View online or download as a PDF.",
+    "title": "Résumé",
+    "role": "Senior Full-Stack + AI Engineer",
+    "summaryTitle": "Profile",
+    "summary": "Senior engineer who turns ideas into shipped products. I architect AI systems — RAG pipelines and LLM agents — and build full-stack applications end-to-end, from the React/Next.js frontend to the Python/FastAPI backend and the cloud infrastructure beneath. The stack is irrelevant; the outcome is what matters.",
+    "download": "Download PDF",
+    "downloadHint": "Opens your browser's print dialog — choose \"Save as PDF\".",
+    "print": "Print",
+    "backToHome": "Back to home",
+    "updated": "Updated",
+    "updatedDate": "June 2026",
+    "sections": {
+      "experience": "Experience",
+      "techStack": "Tech Stack",
+      "education": "Education",
+      "languages": "Languages"
+    },
+    "contactLabels": {
+      "email": "Email",
+      "location": "Location",
+      "website": "Website",
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    },
+    "location": "Costa de Caparica, Portugal",
+    "skillGroups": [
+      { "label": "Core Languages", "items": ["Python", "TypeScript", "JavaScript", "SQL"] },
+      { "label": "AI & Data", "items": ["LangChain", "OpenAI", "Pinecone", "RAG", "Pandas", "Snowflake"] },
+      { "label": "Web & Frameworks", "items": ["React", "Next.js", "FastAPI", "Node.js"] },
+      { "label": "Cloud & DevOps", "items": ["AWS", "Terraform", "Docker", "GitLab CI/CD", "GitHub Actions"] },
+      { "label": "Testing & Monitoring", "items": ["Pytest", "Playwright", "Grafana K6", "DataDog"] }
+    ],
+    "education": [
+      {
+        "degree": "M.Sc. in Computer Science",
+        "school": "NOVA FCT",
+        "period": "Sep 2015 – Oct 2021",
+        "location": "Lisbon, Portugal",
+        "detail": "Thesis: On-demand execution of tasks on remote resources"
+      }
+    ],
+    "languagesList": [
+      { "name": "Portuguese", "level": "Native", "value": 100 },
+      { "name": "English", "level": "Professional (C1)", "value": 85 }
+    ]
   },
   "services": {
     "title": "What I Build",

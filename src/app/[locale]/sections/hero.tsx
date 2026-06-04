@@ -1,6 +1,7 @@
 "use client"
 import Image from "next/image"
-import { useTranslations } from "next-intl"
+import Link from "next/link"
+import { useTranslations, useLocale } from "next-intl"
 import { Button } from "@/components/ui/button"
 import { motion, Variants } from "framer-motion"
 
@@ -126,7 +127,7 @@ function FloatingPortrait({ alt }: { alt: string }) {
         {/* Portrait — pill/capsule shape via rounded-full on portrait-ratio container */}
         <div className="relative w-[190px] h-[270px] md:w-[290px] md:h-[414px] rounded-full overflow-hidden border border-border/35 shadow-[0_36px_90px_-24px_rgba(0,0,0,0.22)]">
           <Image
-            src="/profile.jpg"
+            src="/profile.jpeg"
             alt={alt}
             fill
             className="object-cover object-top grayscale"
@@ -238,11 +239,11 @@ function ContactButton() {
 
 function ResumeButton() {
   const t = useTranslations("hero")
+  const locale = useLocale()
 
   return (
-    <a
-      href="/CV_2025.pdf"
-      download
+    <Link
+      href={`/${locale}/resume`}
       className="w-full sm:w-auto focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 rounded-md"
       aria-label={t("resumeAriaLabel")}
     >
@@ -252,6 +253,6 @@ function ResumeButton() {
       >
         {t("resumeButton")}
       </Button>
-    </a>
+    </Link>
   )
 }
