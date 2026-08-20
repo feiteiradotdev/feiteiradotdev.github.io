@@ -49,12 +49,12 @@ type LanguageEntry = { name: string; level: string; value: number }
 
 const CONTACT = {
   email: "pedrofeiteira.dev@gmail.com",
-  website: "https://feiteira-dev.github.io/",
-  websiteLabel: "feiteira-dev.github.io",
-  linkedin: "https://www.linkedin.com/in/feiteira-dev",
-  linkedinLabel: "in/feiteira-dev",
-  github: "https://github.com/feiteira-dev",
-  githubLabel: "feiteira-dev",
+  website: "https://feiteiradotdev.github.io/",
+  websiteLabel: "feiteiradotdev.github.io",
+  linkedin: "https://www.linkedin.com/in/feiteiradotdev",
+  linkedinLabel: "in/feiteiradotdev",
+  github: "https://github.com/feiteiradotdev",
+  githubLabel: "feiteiradotdev",
 }
 
 /* -------------------------------------------------------------------------- */

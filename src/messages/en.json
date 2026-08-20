@@ -80,7 +80,7 @@
           "Joined dashboard team to help building dashboards, using SQL (snowflake), pandas and the company's SDK.",
           "Optimize data workflows between Python services and cloud databases (Snowflake).",
           "Helped build the company's interactive testing suite with Playwright, both Python and JavaScript. Also created loading tests using Grafana K6",
-          "Currently working on enterprise LLM agents project, where I'm responsible to link the AI result with the Web stack",
+          "Worked on an enterprise LLM agents project, where I was responsible for linking the AI result with the Web stack",
           "Continuously learning modern tech stacks to support cross-functional projects"
         ],
         "technologies": ["Python", "Pandas", "Pytest", "GitHub Actions", "SQL", "Snowflake", "Playwright", "JavaScript", "Grafana K6"]

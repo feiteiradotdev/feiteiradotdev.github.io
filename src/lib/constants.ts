@@ -1,6 +1,6 @@
 // Site configuration constants
 export const SITE_CONFIG = {
-  github: "https://github.com/feiteira-dev",
+  github: "https://github.com/feiteiradotdev",
 } as const
 
 // Contact form constants
@@ -14,7 +14,7 @@ export const CONTACT_FORM = {
 
 // GitHub API constants
 export const GITHUB = {
-  username: "feiteira-dev",
+  username: "feiteiradotdev",
   reposPerPage: 6,
   staleTime: 5 * 60 * 1000, // 5 minutes
   retryAttempts: 2,

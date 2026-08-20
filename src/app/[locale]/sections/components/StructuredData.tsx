@@ -1,4 +1,4 @@
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://feiteira-dev.github.io";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://feiteiradotdev.github.io";
 
 interface StructuredDataProps {
   locale: string;
@@ -17,8 +17,8 @@ export default function StructuredData({ locale }: StructuredDataProps) {
     jobTitle: jobTitles[locale] || jobTitles.en,
     url: locale === "en" ? siteUrl : `${siteUrl}/${locale}/`,
     sameAs: [
-      "https://github.com/feiteira-dev",
-      "https://www.linkedin.com/in/feiteira-dev/",
+      "https://github.com/feiteiradotdev",
+      "https://www.linkedin.com/in/feiteiradotdev/",
       "https://x.com/feiteira_dev",
     ],
     email: "pedrofeiteira.dev@gmail.com",

@@ -80,7 +80,7 @@
           "Juntei-me a equipa de dashboards para ajudar a construir dashboards, usando SQL (snowflake), pandas e o SDK da empresa.",
           "Otimizar fluxos de dados entre servicos Python e bases de dados cloud (Snowflake).",
           "Ajudei a construir a suite de testes interativos da empresa com Playwright, tanto Python como JavaScript. Tambem criei testes de carga usando Grafana K6",
-          "Atualmente a trabalhar no projeto de agentes LLM empresariais, onde sou responsavel por ligar o resultado da IA com a stack Web",
+          "Trabalhei num projeto de agentes LLM empresariais, onde fui responsavel por ligar o resultado da IA com a stack Web",
           "Aprendizagem continua de stacks tecnologicas modernas para apoiar projetos cross-funcionais"
         ],
         "technologies": ["Python", "Pandas", "Pytest", "GitHub Actions", "SQL", "Snowflake", "Playwright", "JavaScript", "Grafana K6"]

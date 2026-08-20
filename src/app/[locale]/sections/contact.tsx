@@ -250,8 +250,8 @@ function ContactForm() {
 
 const contacts = [
   { icon: "email", href: "pedrofeiteira.dev@gmail.com" },
-  { icon: "linkedin", href: "linkedin.com/in/feiteira-dev" },
-  { icon: "github", href: "github.com/feiteira-dev" },
+  { icon: "linkedin", href: "linkedin.com/in/feiteiradotdev" },
+  { icon: "github", href: "github.com/feiteiradotdev" },
   { icon: "x", href: "x.com/feiteira_dev" },
 ]
 
