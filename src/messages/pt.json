@@ -1,71 +1,71 @@
 {
   "navigation": {
-    "skipToContent": "Saltar para o conteudo principal",
+    "skipToContent": "Saltar para o conteúdo principal",
     "about": "Sobre",
-    "services": "Servicos",
-    "skills": "Competencias",
+    "services": "Serviços",
+    "skills": "Competências",
     "showcase": "Trabalhos",
-    "resume": "Curriculo",
+    "resume": "Currículo",
     "contact": "Contacto",
     "toggleTheme": "Alternar tema",
-    "openMenu": "Abrir menu de navegacao",
-    "closeMenu": "Fechar menu de navegacao",
-    "navigateTo": "Navegar para a seccao {section}",
-    "mobileNav": "Navegacao movel",
-    "mainNav": "Navegacao principal"
+    "openMenu": "Abrir menu de navegação",
+    "closeMenu": "Fechar menu de navegação",
+    "navigateTo": "Navegar para a secção {section}",
+    "mobileNav": "Navegação móvel",
+    "mainNav": "Navegação principal"
   },
   "hero": {
-    "greeting": "Ola! Sou o Pedro Feiteira",
+    "greeting": "Olá! Sou o Pedro Feiteira",
     "role": "Inventor. Builder.",
-    "tagline": "A stack e irrelevante. A distancia entre a sua ideia e um produto entregue ficou muito menor.",
+    "tagline": "A stack é irrelevante. A distância entre a sua ideia e um produto entregue ficou muito menor.",
     "contactButton": "Iniciar Projeto",
-    "resumeButton": "Ver Curriculo",
+    "resumeButton": "Ver Currículo",
     "profileAlt": "Pedro Feiteira, Inventor e Builder",
-    "resumeAriaLabel": "Ver o curriculo interativo de Pedro Feiteira",
-    "contactAriaLabel": "Navegar para a seccao de contacto"
+    "resumeAriaLabel": "Ver o currículo interativo de Pedro Feiteira",
+    "contactAriaLabel": "Navegar para a secção de contacto"
   },
   "about": {
     "title": "Sobre Mim",
     "statement": "Construo o que imagino.",
-    "description": "Nao sou um programador Python. Nao sou um programador TypeScript. A stack e irrelevante. A IA eliminou a distancia entre conceito e execucao — e tenho explorado isso desde entao. Arquiteto sistemas inteligentes, entrego aplicacoes full-stack e automatizo processos que antes requeriam equipas inteiras. A unica pergunta: o que devemos construir?",
+    "description": "Não sou um programador Python. Não sou um programador TypeScript. A stack é irrelevante. A IA eliminou a distância entre conceito e execução — e tenho explorado isso desde então. Arquiteto sistemas inteligentes, entrego aplicações full-stack e automatizo processos que antes requeriam equipas inteiras. A única pergunta: o que devemos construir?",
     "location": "Baseado em Portugal",
-    "remote": "Disponivel Remotamente",
+    "remote": "Disponível Remotamente",
     "hobbiesTitle": "Hobbies"
   },
   "hobbies": {
     "gaming": {
       "title": "Gaming",
-      "description": "Uma das minhas paixoes sao os videojogos. Desde crianca que sou fascinado por boas historias, boa narrativa e resolver puzzles — uma das grandes razoes pela qual escolhi esta area."
+      "description": "Uma das minhas paixões são os videojogos. Desde criança que sou fascinado por boas histórias, boa narrativa e resolver puzzles — uma das grandes razões pela qual escolhi esta área."
     },
     "fitness": {
       "title": "Fitness",
-      "description": "Acredito que o equilibrio entre mente e corpo e fundamental para lidar com os desafios do dia-a-dia. Tento manter-me ativo e seguir uma alimentacao saudavel."
+      "description": "Acredito que o equilíbrio entre mente e corpo é fundamental para lidar com os desafios do dia-a-dia. Tento manter-me ativo e seguir uma alimentação saudável."
     },
     "music": {
-      "title": "Musica",
-      "description": "Adoro todos os estilos de musica — cada genero tem o seu momento. A musica sempre teve um impacto significativo na minha vida e no meu trabalho."
+      "title": "Música",
+      "description": "Adoro todos os estilos de música — cada género tem o seu momento. A música sempre teve um impacto significativo na minha vida e no meu trabalho."
     },
     "learning": {
       "title": "Aprendizagem",
-      "description": "Aprender sobre tudo sempre me fascinou. Estou sempre a descobrir algo novo — diferentes areas para dominar, nao apenas a nivel profissional."
+      "description": "Aprender sobre tudo sempre me fascinou. Estou sempre a descobrir algo novo — diferentes áreas para dominar, não apenas a nível profissional."
     }
   },
   "experience": {
-    "title": "Experiencia",
+    "title": "Experiência",
     "ongoing": "A Decorrer",
     "entries": [
       {
-        "role": "Engenheiro Senior Full-Stack+IA @ Aircall",
+        "role": "Engenheiro Sénior Full-Stack+IA @ Aircall",
         "company": "AdvanceWorks",
         "period": "Set 2025 -- A Decorrer",
         "location": "Lisboa, Portugal",
         "description": [
-          "Arquitetar e construir um novo assistente de suporte de IA generativa do zero, utilizando Python (FastAPI), LangChain, OpenAI e Pinecone para criar um pipeline RAG avancado integrado com Zendesk.",
-          "Liderar o desenvolvimento de ponta a ponta de um novo portal de suporte self-service, projetado para reduzir significativamente o volume de tickets manuais e diminuir o tempo de resolucao do cliente.",
-          "Desenvolver e manter a aplicacao full-stack, incluindo o frontend React/Next.js e o backend de microsservicos Python/FastAPI utilizando PostgreSQL e Redis.",
-          "Proprietario e automatizador de toda a infraestrutura cloud na AWS usando Terraform (IaC), com Docker para containerizacao e GitLab para CI/CD.",
-          "Engenharia de sistemas seguros e observaveis implementando AWS Cognito (JWT/Cookies) para autenticacao e integrando DataDog para monitorizacao abrangente da aplicacao.",
-          "Nesta funcao, estou a aprender engenharia de prompts para tirar partido das ferramentas de IA mais recentes para melhorar a minha produtividade e eficiencia."
+          "Arquitetar e construir um novo assistente de suporte de IA generativa do zero, utilizando Python (FastAPI), LangChain, OpenAI e Pinecone para criar um pipeline RAG avançado integrado com Zendesk.",
+          "Liderar o desenvolvimento de ponta a ponta de um novo portal de suporte self-service, projetado para reduzir significativamente o volume de tickets manuais e diminuir o tempo de resolução do cliente.",
+          "Desenvolver e manter a aplicação full-stack, incluindo o frontend React/Next.js e o backend de microsserviços Python/FastAPI utilizando PostgreSQL e Redis.",
+          "Proprietário e automatizador de toda a infraestrutura cloud na AWS usando Terraform (IaC), com Docker para containerização e GitLab para CI/CD.",
+          "Engenharia de sistemas seguros e observáveis implementando AWS Cognito (JWT/Cookies) para autenticação e integrando DataDog para monitorização abrangente da aplicação.",
+          "Nesta função, estou a aprender engenharia de prompts para tirar partido das ferramentas de IA mais recentes para melhorar a minha produtividade e eficiência."
         ],
         "technologies": ["Python", "FastAPI", "LangChain", "OpenAI", "Pinecone", "React", "Next.js", "PostgreSQL", "Redis", "AWS", "Terraform", "Docker", "GitLab CI/CD", "AWS Cognito", "DataDog"]
       },
@@ -75,35 +75,35 @@
         "period": "Set 2021 -- Jun 2025",
         "location": "Lisboa, Portugal",
         "description": [
-          "Desenvolver e manter o SDK da empresa usando Python. Tambem foi usado Pandas para processamento de dados e Pytest para testes unitarios.",
-          "Ajudei a construir pipelines CI/CD com GithubActions para o repositorio Python.",
-          "Juntei-me a equipa de dashboards para ajudar a construir dashboards, usando SQL (snowflake), pandas e o SDK da empresa.",
-          "Otimizar fluxos de dados entre servicos Python e bases de dados cloud (Snowflake).",
-          "Ajudei a construir a suite de testes interativos da empresa com Playwright, tanto Python como JavaScript. Tambem criei testes de carga usando Grafana K6",
-          "Trabalhei num projeto de agentes LLM empresariais, onde fui responsavel por ligar o resultado da IA com a stack Web",
-          "Aprendizagem continua de stacks tecnologicas modernas para apoiar projetos cross-funcionais"
+          "Desenvolver e manter o SDK da empresa usando Python. Também foi usado Pandas para processamento de dados e Pytest para testes unitários.",
+          "Ajudei a construir pipelines CI/CD com GithubActions para o repositório Python.",
+          "Juntei-me à equipa de dashboards para ajudar a construir dashboards, usando SQL (snowflake), pandas e o SDK da empresa.",
+          "Otimizar fluxos de dados entre serviços Python e bases de dados cloud (Snowflake).",
+          "Ajudei a construir a suite de testes interativos da empresa com Playwright, tanto Python como JavaScript. Também criei testes de carga usando Grafana K6",
+          "Trabalhei num projeto de agentes LLM empresariais, onde fui responsável por ligar o resultado da IA com a stack Web",
+          "Aprendizagem contínua de stacks tecnológicas modernas para apoiar projetos cross-funcionais"
         ],
         "technologies": ["Python", "Pandas", "Pytest", "GitHub Actions", "SQL", "Snowflake", "Playwright", "JavaScript", "Grafana K6"]
       },
       {
-        "role": "Estagio",
+        "role": "Estágio",
         "company": "Celfocus",
         "period": "Abr 2018 -- Jul 2018",
         "location": "Lisboa, Portugal",
         "description": [
           "Desenvolvi uma Prova de Conceito (PoC) para um sistema que gera automaticamente casos de teste a partir de requisitos de software.",
-          "Construi uma aplicacao web funcional (full-stack) cobrindo os objetivos principais, demonstrando viabilidade de ponta a ponta.",
+          "Construí uma aplicação web funcional (full-stack) cobrindo os objetivos principais, demonstrando viabilidade de ponta a ponta.",
           "Tecnologias Chave: Node.js (backend), IBM Watson (funcionalidades alimentadas por IA) e Cloud Computing para deployment.",
-          "Ganhei experiencia pratica em desenvolvimento full-stack, focando em escalabilidade e automacao."
+          "Ganhei experiência prática em desenvolvimento full-stack, focando em escalabilidade e automação."
         ],
         "technologies": ["Node.js", "IBM Watson", "Cloud Computing"]
       }
     ]
   },
   "skills": {
-    "title": "Competencias",
-    "hardSkills": "Competencias Tecnicas",
-    "softSkills": "Competencias Pessoais",
+    "title": "Competências",
+    "hardSkills": "Competências Técnicas",
+    "softSkills": "Competências Pessoais",
     "languages": "Idiomas",
     "hard": {
       "python": "Python",
@@ -114,42 +114,42 @@
       "testing": "Testes"
     },
     "soft": {
-      "communication": "Comunicacao",
-      "problemSolving": "Resolucao de Problemas",
+      "communication": "Comunicação",
+      "problemSolving": "Resolução de Problemas",
       "teamwork": "Trabalho em Equipa",
       "adaptability": "Adaptabilidade",
-      "criticalThinking": "Pensamento Critico",
-      "leadership": "Lideranca",
+      "criticalThinking": "Pensamento Crítico",
+      "leadership": "Liderança",
       "creativity": "Criatividade",
-      "emotionalIntelligence": "Inteligencia Emocional"
+      "emotionalIntelligence": "Inteligência Emocional"
     },
     "languageNames": {
-      "portuguese": "Portugues",
-      "english": "Ingles"
+      "portuguese": "Português",
+      "english": "Inglês"
     }
   },
   "resume": {
-    "metaTitle": "Curriculo — Pedro Feiteira",
-    "metaDescription": "Curriculo interativo de Pedro Feiteira — Engenheiro Senior Full-Stack + IA. Veja online ou descarregue em PDF.",
-    "title": "Curriculo",
-    "role": "Engenheiro Senior Full-Stack + IA",
+    "metaTitle": "Currículo — Pedro Feiteira",
+    "metaDescription": "Currículo interativo de Pedro Feiteira — Engenheiro Sénior Full-Stack + IA. Veja online ou descarregue em PDF.",
+    "title": "Currículo",
+    "role": "Engenheiro Sénior Full-Stack + IA",
     "summaryTitle": "Perfil",
-    "summary": "Engenheiro senior que transforma ideias em produtos entregues. Arquiteto sistemas de IA — pipelines RAG e agentes LLM — e construo aplicacoes full-stack de ponta a ponta, do frontend React/Next.js ao backend Python/FastAPI e a infraestrutura cloud por baixo. A stack e irrelevante; o que importa e o resultado.",
+    "summary": "Engenheiro sénior que transforma ideias em produtos entregues. Arquiteto sistemas de IA — pipelines RAG e agentes LLM — e construo aplicações full-stack de ponta a ponta, do frontend React/Next.js ao backend Python/FastAPI e à infraestrutura cloud por baixo. A stack é irrelevante; o que importa é o resultado.",
     "download": "Descarregar PDF",
-    "downloadHint": "Abre a caixa de impressao do navegador — escolha \"Guardar como PDF\".",
+    "downloadHint": "Abre a caixa de impressão do navegador — escolha \"Guardar como PDF\".",
     "print": "Imprimir",
-    "backToHome": "Voltar ao inicio",
+    "backToHome": "Voltar ao início",
     "updated": "Atualizado",
     "updatedDate": "Junho 2026",
     "sections": {
-      "experience": "Experiencia",
+      "experience": "Experiência",
       "techStack": "Tecnologias",
-      "education": "Educacao",
+      "education": "Educação",
       "languages": "Idiomas"
     },
     "contactLabels": {
       "email": "Email",
-      "location": "Localizacao",
+      "location": "Localização",
       "website": "Website",
       "linkedin": "LinkedIn",
       "github": "GitHub"
@@ -160,48 +160,48 @@
       { "label": "IA & Dados", "items": ["LangChain", "OpenAI", "Pinecone", "RAG", "Pandas", "Snowflake"] },
       { "label": "Web & Frameworks", "items": ["React", "Next.js", "FastAPI", "Node.js"] },
       { "label": "Cloud & DevOps", "items": ["AWS", "Terraform", "Docker", "GitLab CI/CD", "GitHub Actions"] },
-      { "label": "Testes & Monitorizacao", "items": ["Pytest", "Playwright", "Grafana K6", "DataDog"] }
+      { "label": "Testes & Monitorização", "items": ["Pytest", "Playwright", "Grafana K6", "DataDog"] }
     ],
     "education": [
       {
-        "degree": "Mestrado em Engenharia Informatica",
+        "degree": "Mestrado em Engenharia Informática",
         "school": "NOVA FCT",
         "period": "Set 2015 – Out 2021",
         "location": "Lisboa, Portugal",
-        "detail": "Tese: Execucao de tarefas a pedido em recursos remotos"
+        "detail": "Tese: Execução de tarefas a pedido em recursos remotos"
       }
     ],
     "languagesList": [
-      { "name": "Portugues", "level": "Nativo", "value": 100 },
-      { "name": "Ingles", "level": "Profissional (C1)", "value": 85 }
+      { "name": "Português", "level": "Nativo", "value": 100 },
+      { "name": "Inglês", "level": "Profissional (C1)", "value": 85 }
     ]
   },
   "services": {
     "title": "O Que Construo",
-    "subtitle": "A stack tecnologica nao e o limite. A unica questao e: o que devemos construir para si?",
+    "subtitle": "A stack tecnológica não é o limite. A única questão é: o que devemos construir para si?",
     "cta": "Entrar em contacto",
     "items": [
       {
         "title": "Produtos com IA",
-        "description": "A sua ideia torna-se um produto inteligente. Agentes LLM, sistemas RAG, apps com IA — trato da arquitetura, integracao e deployment de ponta a ponta."
+        "description": "A sua ideia torna-se um produto inteligente. Agentes LLM, sistemas RAG, apps com IA — trato da arquitetura, integração e deployment de ponta a ponta."
       },
       {
-        "title": "Aplicacoes Web Full-Stack",
-        "description": "Uma aplicacao web pronta para producao, do zero. Stack moderna, codigo limpo, excelente UX — entregue dentro do prazo."
+        "title": "Aplicações Web Full-Stack",
+        "description": "Uma aplicação web pronta para produção, do zero. Stack moderna, código limpo, excelente UX — entregue dentro do prazo."
       },
       {
-        "title": "Automacao de Processos",
-        "description": "O trabalho manual que atrasa a sua equipa, eliminado. Pipelines de IA personalizados construidos em torno dos seus processos especificos."
+        "title": "Automação de Processos",
+        "description": "O trabalho manual que atrasa a sua equipa, eliminado. Pipelines de IA personalizados construídos em torno dos seus processos específicos."
       },
       {
-        "title": "Prototipagem Rapida",
-        "description": "Uma versao funcional da sua ideia em dias. Valide o conceito antes de se comprometer — teste o mercado, nao o orcamento."
+        "title": "Prototipagem Rápida",
+        "description": "Uma versão funcional da sua ideia em dias. Valide o conceito antes de se comprometer — teste o mercado, não o orçamento."
       }
     ]
   },
   "aboutPage": {
     "title": "Sobre Mim",
-    "backToHome": "Voltar ao Inicio"
+    "backToHome": "Voltar ao Início"
   },
   "showcase": {
     "title": "Trabalhos",
@@ -245,19 +245,19 @@
       "characters": "{count} / {max} caracteres"
     },
     "validation": {
-      "nameRequired": "O nome e obrigatorio",
+      "nameRequired": "O nome é obrigatório",
       "nameMinLength": "O nome deve ter pelo menos {min} caracteres",
       "nameMaxLength": "O nome deve ter menos de {max} caracteres",
-      "emailRequired": "O email e obrigatorio",
-      "emailInvalid": "Por favor insira um endereco de email valido",
-      "messageRequired": "A mensagem e obrigatoria",
+      "emailRequired": "O email é obrigatório",
+      "emailInvalid": "Por favor insira um endereço de email válido",
+      "messageRequired": "A mensagem é obrigatória",
       "messageMinLength": "A mensagem deve ter pelo menos {min} caracteres",
       "messageMaxLength": "A mensagem deve ter menos de {max} caracteres"
     },
     "toast": {
       "success": "Mensagem enviada com sucesso! Responderei em breve.",
       "rateLimited": "Por favor aguarde um momento antes de enviar outra mensagem",
-      "formErrors": "Por favor corrija os erros no formulario",
+      "formErrors": "Por favor corrija os erros no formulário",
       "genericError": "Algo correu mal. Por favor tente novamente mais tarde."
     },
     "status": {
@@ -272,9 +272,9 @@
     "copyright": "Pedro Feiteira. Todos os direitos reservados."
   },
   "notFound": {
-    "title": "Pagina Nao Encontrada",
-    "description": "A pagina que procura nao existe ou foi movida.",
-    "goHome": "Ir para Inicio",
+    "title": "Página Não Encontrada",
+    "description": "A página que procura não existe ou foi movida.",
+    "goHome": "Ir para Início",
     "goBack": "Voltar"
   },
   "common": {
