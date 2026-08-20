@@ -4,7 +4,7 @@ export type Locale = (typeof locales)[number];
 
 export const localeNames: Record<Locale, string> = {
   en: 'English',
-  pt: 'Portugues',
+  pt: 'Português',
 };
 
 export const localeFlags: Record<Locale, string> = {
